@@ -22,7 +22,6 @@ function App() {
       setmodename('LightMode')
       settexttype('dark')
       document.body.style.backgroundColor = 'white'
-
     }
   }
   return (
